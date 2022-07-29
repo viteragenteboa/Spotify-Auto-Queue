@@ -1,6 +1,6 @@
 {
 	"channels": ["butterandcream"],
-	"reward-id": "Música spotify",
+	"reward-id": "a04d661d-a6a9-41a6-b1b5-d0cc4e15a285",
 	"log_custom_reward_ids": false,
 	"_reward_comment": "To find your custom reward id. Enable the above to 'true'. Go to your twitch and use the CUSTOM channel reward you want.",
 	"bot": {
